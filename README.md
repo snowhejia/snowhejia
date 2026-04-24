@@ -32,16 +32,13 @@
   <a href="https://space.bilibili.com/142602">
     <img src="https://img.shields.io/badge/Bilibili-双月之海-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="bilibili"/>
   </a>
-</p>
-
-> 自己的事情，只能自己去相信它。
->
-
----
-
-<div align="center">
 <!-- 可选：访客统计徽章 -->
 <img src="https://komarev.com/ghpvc/?username=snowhejia&style=flat-square&color=C58940" alt="profile views"/>
+</p>
+
+
+
+
 
 <!-- 可选：GitHub 数据卡片，把 your-username 换成你的 GitHub 用户名 -->
 <!--
