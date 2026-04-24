@@ -15,7 +15,7 @@
 - 🎓 Master of Computer Science @ University of Sydney, with a Psychology background.
 - 💻 Aiming to be a full-stack developer; also curious about product thinking, modeling & design.
 - 🛠️ Currently crafting CardNote — a small but thoughtful tool I'm building with care.
-- 🎬 Outside of code, I love anime, video editing, and snowboardiing.
+- 🎬 Outside of code, I love anime, video editing, and snowboarding.
 
 ### Links
 
@@ -40,9 +40,7 @@
 
 
 
-<!-- 可选：GitHub 数据卡片，把 your-username 换成你的 GitHub 用户名 -->
+<!-- 可选：GitHub 数据卡片 -->
 <!--
-<img src="https://github-readme-stats.vercel.app/api?username=【你的GitHub用户名】&show_icons=true&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api?username=snowhejia&show_icons=true&theme=default" />
 -->
-
-</div>
